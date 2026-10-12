@@ -58,10 +58,25 @@ Replace `archers\_aim.py` with your actual Python filename if it differs.
 
 \- Working with Python files and JSON data
 
-## Game Screenshot
+## 🎯 Archer's Aim — Game Screenshots
 
-![Archer's Aim gameplay](archers-aim.png)
+### Screenshot 1
+![Archer's Aim Screenshot 1](Screenshot%202026-10-12%20225223.png)
 
+### Screenshot 2
+![Archer's Aim Screenshot 2](Screenshot%202026-10-12%20225304.png)
+
+### Screenshot 3
+![Archer's Aim Screenshot 3](Screenshot%202026-10-12%20225337.png)
+
+### Screenshot 4
+![Archer's Aim Screenshot 4](Screenshot%202026-10-12%20225435.png)
+
+### Screenshot 5
+![Archer's Aim Screenshot 5](Screenshot%202026-10-12%20225458.png)
+
+### Screenshot 6
+![Archer's Aim Screenshot 6](Screenshot%202026-10-12%20225716.png)
 
 
 \## Project Status
