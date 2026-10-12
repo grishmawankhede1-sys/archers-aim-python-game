@@ -1,0 +1,66 @@
+\# Archer's Aim — Python Tkinter Game
+
+
+
+\## About the Project
+
+Archer's Aim is a desktop archery game developed using Python and Tkinter. It provides an interactive graphical interface where players can aim at a moving target and try to achieve a high score.
+
+
+
+\## Features
+
+\- Graphical user interface using Tkinter
+
+\- Interactive archery gameplay
+
+\- Moving targets and adjustable difficulty, if implemented in the current version
+
+\- Player scoring and leaderboard functionality, if implemented in the current version
+
+
+
+\## Technologies Used
+
+\- Python
+
+\- Tkinter
+
+\- JSON for leaderboard data storage
+
+
+
+\## How to Run
+
+1\. Install Python 3.
+
+2\. Download or clone this repository.
+
+3\. Open a terminal in the project folder.
+
+4\. Run:
+
+
+
+&#x20;  `python archers\_aim.py`
+
+
+
+Replace `archers\_aim.py` with your actual Python filename if it differs.
+
+
+
+\## What I Learned
+
+\- Creating desktop interfaces using Tkinter
+
+\- Handling user interactions and game logic
+
+\- Working with Python files and JSON data
+
+
+
+\## Project Status
+
+Developed as a learning project to practise Python programming and GUI development.
+
