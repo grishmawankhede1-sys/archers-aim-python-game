@@ -58,6 +58,10 @@ Replace `archers\_aim.py` with your actual Python filename if it differs.
 
 \- Working with Python files and JSON data
 
+## Game Screenshot
+
+![Archer's Aim gameplay](archers-aim.png)
+
 
 
 \## Project Status
