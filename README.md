@@ -1,85 +1,69 @@
-\# Archer's Aim — Python Tkinter Game
+# Archer's Aim — Python Tkinter Game
 
+## About the Project
 
+Archer's Aim is a desktop archery game developed using Python and Tkinter. Players aim at moving targets, earn points, and compete for high scores through an interactive graphical interface.
 
-\## About the Project
+## Features
 
-Archer's Aim is a desktop archery game developed using Python and Tkinter. It provides an interactive graphical interface where players can aim at a moving target and try to achieve a high score.
+- Interactive graphical user interface using Tkinter
+- Archery gameplay with aiming and shooting
+- Moving targets and multiple difficulty levels
+- Score tracking and hit accuracy
+- Game-over screen with performance summary
+- Leaderboard to display player rankings
+- JSON-based leaderboard data storage
 
+## Technologies Used
 
+- **Language:** Python
+- **GUI Library:** Tkinter
+- **Data Storage:** JSON
 
-\## Features
+## How to Run
 
-\- Graphical user interface using Tkinter
+1. Install Python 3.
+2. Download or clone this repository.
+3. Open a terminal in the project folder.
+4. Run the following command:
 
-\- Interactive archery gameplay
+   ```bash
+   python Archerygame.py
+   ```
 
-\- Moving targets and adjustable difficulty, if implemented in the current version
+## What I Learned
 
-\- Player scoring and leaderboard functionality, if implemented in the current version
-
-
-
-\## Technologies Used
-
-\- Python
-
-\- Tkinter
-
-\- JSON for leaderboard data storage
-
-
-
-\## How to Run
-
-1\. Install Python 3.
-
-2\. Download or clone this repository.
-
-3\. Open a terminal in the project folder.
-
-4\. Run:
-
-
-
-&#x20;  `python archers\_aim.py`
-
-
-
-Replace `archers\_aim.py` with your actual Python filename if it differs.
-
-
-
-\## What I Learned
-
-\- Creating desktop interfaces using Tkinter
-
-\- Handling user interactions and game logic
-
-\- Working with Python files and JSON data
+- Creating desktop applications using Tkinter
+- Implementing game logic and user interactions
+- Managing scores and leaderboard data using JSON
+- Designing interactive interfaces and handling game states
 
 ## 🎯 Archer's Aim — Game Screenshots
 
-### Screenshot 1
-![Archer's Aim Game Instruction](Screenshot%202026-10-12%20225223.png)
+### 1. Game Instructions
 
-### Screenshot 2
-![Archer's Aim Main Menu](Screenshot%202026-10-12%20225304.png)
+![Archer's Aim - Game Instructions](Screenshot%202026-10-12%20225223.png)
 
-### Screenshot 3
-![Archer's Aim The Difficulty Level of Game](Screenshot%202026-10-12%20225337.png)
+### 2. Main Menu & Player Setup
 
-### Screenshot 4
-![Archer's Aim Interactive Archery Gameplay](Screenshot%202026-10-12%20225435.png)
+![Archer's Aim - Main Menu](Screenshot%202026-10-12%20225304.png)
 
-### Screenshot 5
-![Archer's Aim Game Over & Performance Summary](Screenshot%202026-10-12%20225458.png)
+### 3. Difficulty Selection
 
-### Screenshot 6
-![Archer's Aim Leaderboard & Rankings](Screenshot%202026-10-12%20225716.png)
+![Archer's Aim - Difficulty Selection](Screenshot%202026-10-12%20225337.png)
 
+### 4. Interactive Archery Gameplay
 
-\## Project Status
+![Archer's Aim - Gameplay](Screenshot%202026-10-12%20225435.png)
+
+### 5. Game Over & Performance Summary
+
+![Archer's Aim - Game Over](Screenshot%202026-10-12%20225458.png)
+
+### 6. Leaderboard & Rankings
+
+![Archer's Aim - Leaderboard](Screenshot%202026-10-12%20225716.png)
+
+## Project Status
 
 Developed as a learning project to practise Python programming and GUI development.
-
